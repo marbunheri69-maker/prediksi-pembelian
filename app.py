@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import time
-from src.predict import predict_purchase
+from src.train import predict_purchase
 
 # PAGE CONFIG
 
